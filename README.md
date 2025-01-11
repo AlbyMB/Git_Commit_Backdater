@@ -14,7 +14,8 @@ Features
     Python 3.6+
     Git installed on your system.
     PyGithub library installed:
-```bash pip install PyGithub  
+```bash
+    pip install PyGithub  
 
     A GitHub account with a Personal Access Token.
 
