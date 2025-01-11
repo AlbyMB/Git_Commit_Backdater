@@ -32,3 +32,6 @@ Git Commit Backdater is a Python script that helps students and developers uploa
 * Enter a name for your GitHub Repo : Enter a name you want give the repo. Or press enter to default to the folder name.
 * If no errors happen, you can now go to your GitHub and see a beautiful contribution chart, one that's more reflective of your suffering in the past year. 
 * You now have the power to time travel. Use it wisely.
+## Credits 
+* devdetour for his [git_message_writer](https://github.com/devdetour/git-message-writer) script
+* ChatGPT for supporting me in this journey
