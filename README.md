@@ -9,7 +9,7 @@ Features
     Git Repository Reset: Prompts to reset existing repositories if a .git folder is found.
     GitHub API Key Input: User inputs their API key securely for GitHub integration.
 
-Prerequisites
+# Prerequisites
 
     Python 3.6+
     Git installed on your system.
@@ -19,7 +19,7 @@ Prerequisites
 
     A GitHub account with a Personal Access Token.
 
-Installation
+# Installation
 
     Clone this repository:
 
@@ -29,7 +29,7 @@ Install required Python packages:
 
     pip install -r requirements.txt  
 
-Usage
+# Usage
 
     Run the script:
 
@@ -43,18 +43,9 @@ Usage
         Commit each file with its last modified date as the commit date.
         Create a GitHub repository and push the commits.
 
-Notes
+# Notes
 
     Reset Confirmation: The script automatically deletes existing .git folders without confirmation—use cautiously.
     Error Handling: Errors (e.g., API or subprocess failures) are displayed in the terminal.
     Dependencies: Ensure shutil and os are compatible with your Python version.
 
-Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or bug fixes.
-License
-
-This project is licensed under the MIT License.
-Acknowledgements
-
-Designed to help students and developers showcase their historical work on GitHub with ease and accuracy.
